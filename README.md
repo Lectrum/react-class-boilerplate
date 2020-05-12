@@ -8,10 +8,10 @@
 
 <div align="center">
     <!-- Package version -->
-    <img src="https://img.shields.io/github/package-json/v/lectrum/react-online-intensive.svg?longCache=true&style=flat-square"
+    <img src="https://img.shields.io/github/package-json/v/lectrum/react-class-boilerplate.svg?longCache=true&style=flat-square"
         alt="Package version" />
     <!-- Last commit -->
-    <img src="https://img.shields.io/github/last-commit/lectrum/react-online-intensive.svg?longCache=true&style=flat-square" alt="Last commit"
+    <img src="https://img.shields.io/github/last-commit/lectrum/react-class-boilerplate.svg?longCache=true&style=flat-square" alt="Last commit"
     />
     <!-- Dependencies -->
     <img src="https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg?longCache=true&style=flat-square" alt="Dependencies"
